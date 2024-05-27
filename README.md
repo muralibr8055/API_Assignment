@@ -24,7 +24,7 @@ In this project, the BDD Gherkin framework used with [Cucumber](https://cucumber
 
 
 ## How to run tests
-1. Clone or download this repository
+1. Clone or download this repository(https://github.com/muralibr8055/API_Assignment)
 2. Install all the dependencies
 3. Run the below command to execute the test cases, by default this will generate the test report
 - $npm test
