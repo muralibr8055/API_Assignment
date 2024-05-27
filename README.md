@@ -34,7 +34,7 @@ To run the tests without report
 - cucumber-js features/ -r steps/
 
 
-## reporter
+## Reports
 Command to run the tests with report
 
 - cucumber-js features/ -r steps/ --format json:report/cucumber_report.json
